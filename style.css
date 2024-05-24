@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  text-align: center;
+  height: 100vh;
+  display: flex;
+  background: linear-gradient(to top left, #28b487, #7dd56f);
+}
+h1 {
+  font-family: sans-serif;
+  font-size: 50px;
+  width: 100%;
+  text-align: center;
+  color: white;
+}
